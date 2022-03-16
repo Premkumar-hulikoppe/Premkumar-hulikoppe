@@ -59,6 +59,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/premkumar-hulikoppe-0a841a19b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href = "https://twitter.com/PremHulikoppe"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>
 </p>
 
 **<a href = "https://github.com/Premkumar-hulikoppe/SubhamRaoniar28.git" target= "_blank">The source for this readme template is taken from here...</a>**
