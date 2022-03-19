@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **React Js**, **Data Structures and Algorithms** at  **[Masai School Of Coding..](https://www.masaischool.com/)**
 
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://wizardly-noyce-2ce4ca.netlify.app/)**
 
 - 📫 How to reach me **premuhulikoppe@gmail.com**
 
