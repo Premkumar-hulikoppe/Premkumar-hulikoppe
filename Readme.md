@@ -9,7 +9,7 @@
 
 - 🌱 I have learnt **HTML, CSS, Javascript, advanced Javascript at front end** and  **Node Js, Express** and **MongoDB** at backend.
 
-- 🌱 I’m currently learning **React Js**, **Data Structures and Algorithms** at  **[Masai School Of Coding..](https://www.masaischool.com/)**
+- 🌱 I’m currently learning **React Js**, **Data Structures and Algorithms** at  <a href="https://www.masaischool.com/" target = "_blank">**Masai School Of Coding**</a>
 
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://wizardly-noyce-2ce4ca.netlify.app/)**
