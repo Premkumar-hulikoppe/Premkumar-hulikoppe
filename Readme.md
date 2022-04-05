@@ -7,14 +7,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I have learnt **HTML, CSS, Javascript, advanced Javascript at front end** and  **Node Js, Express** and **MongoDB** at backend.
+- 🌱 I have learnt **HTML, CSS, Javascript, advanced Javascript, React Js, Redux Js at front end** and  **Node Js, Express, Mongoose, Npm** and **MongoDB** at backend.
 
-- 🌱 I’m currently learning **React Js**, **Data Structures and Algorithms** at  <a href="https://www.masaischool.com/" target = "_blank">**Masai School Of Coding**</a>
+- 🌱 I’m currently in unit 6, where i am preaparing for the interviews  at  <a href="https://www.masaischool.com/" target = "_blank">**Masai School Of Coding**</a>
 
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://wizardly-noyce-2ce4ca.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://premkumar-hulikoppe-portfolio.netlify.app/)**
 
-- 📫 How to reach me **premuhulikoppe@gmail.com**
+- 📫 How to reach me  **[Email ID](https://*premuhulikoppe@gmail.com)**
 
 - ⚡ Fun fact **I love to dance, play games and cook very often.**
 
